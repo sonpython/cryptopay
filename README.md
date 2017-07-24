@@ -1,8 +1,8 @@
-#Description
+# Description
 Open source Crypto QR code standard (OCQR) for payment between issuers and payers.
 You can generate and add any cryptocurrency as you want to accept yourself.
 
-#Todo
+# Todo
 - Create or connect with 3rd party to get exchange rate between cryptocurrencies
 - Make Merchant OCQR generation Web UI
 - Make Merchant OCQR generation API endpoint
@@ -11,7 +11,7 @@ You can generate and add any cryptocurrency as you want to accept yourself.
 - Make a payment gateway standard to integrate to 3rd CRM, ERP, Online Cart Softwares...
 
 
-#Format
+# Format
 Minimal format
 ```
 {
