@@ -4,7 +4,6 @@ You can add any cryptocurrency as you want to accept and generate OCQR yourself.
 Any one could be a Cryptocurrencies accepted merchant.
 
 # Workflow
-
 ![OCQR workflow](https://raw.githubusercontent.com/sonpython/cryptopay/master/OCQR_workflow.svg)
 
 # Todo
