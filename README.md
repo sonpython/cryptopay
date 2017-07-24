@@ -1,7 +1,9 @@
 # Description
 Open source Crypto QR code standard (OCQR) for payment between issuers and payers.
+
 You can add any cryptocurrency as you want to accept and generate OCQR yourself.
-Any one could be a Cryptocurrencies accepted merchant.
+
+Any one could be a Cryptocurrencies accepted merchant easily. Just need to install an mobile application  -> add your accepted currencies -> generate OCQR > receive payment from Customer scan
 
 # Workflow
 ![OCQR workflow](https://cdn.rawgit.com/sonpython/cryptopay/master/OCQR_workflow.svg)
